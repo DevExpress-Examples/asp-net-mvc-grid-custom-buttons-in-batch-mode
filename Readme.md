@@ -13,7 +13,7 @@
 <!-- default file list end -->
 # GridView - Batch Editing - How to display save and cancel buttons only after editing
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t150411/)**
+**[[Run Online]](https://codecentral.devexpress.com/128549650/)**
 <!-- run online end -->
 
 
