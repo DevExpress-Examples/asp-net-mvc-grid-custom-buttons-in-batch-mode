@@ -64,7 +64,7 @@ Follow the steps below:
     }
     ```
 
-2. Handle the grid's [BatchEditEndEditing](http://docs.devexpress.devx/AspNet/js-ASPxClientGridView.BatchEditEndEditing) event to change the custom button visibility. In this example, custom buttons imitate the behavior of default buttons:
+2. Handle the grid's [BatchEditEndEditing](http://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditEndEditing) event to change the custom button visibility. In this example, custom buttons imitate the behavior of default buttons:
 
    * The buttons are hidden when the grid has no changes.
    * The **Preview changes** button changes its text to **Hide preview** when clicked.
