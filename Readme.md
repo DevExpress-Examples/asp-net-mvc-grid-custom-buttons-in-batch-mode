@@ -12,9 +12,6 @@
 * [Index.cshtml](./CS/DXWebApplication1/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - Batch Editing - How to display save and cancel buttons only after editing
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128549650/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how you can hide both <em>Save changes </em>and <em>Cancel changes </em>buttons, and to display them only when modifications have been made to a cell or row by an end-user. </p>
