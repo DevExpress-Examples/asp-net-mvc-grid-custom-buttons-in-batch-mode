@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET MVC - How to implement custom buttons in the status bar in batch edit mode
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128549650/)**
-<!-- run online end -->
 
 This example demonstrates how to implement a status bar template to replace default command buttons with custom buttons when the grid is in batch edit mode.
 
